@@ -1,11 +1,11 @@
 Este es el trabajo final que desarrollé para el curso de Programación de Aplicaciones Web utilizando PHP y MySQL de Empleartec, cursado en el Polo Tecnológico de Rosario.
 http://www.empleartec.org.ar/cursos/388/programacion-php
 
-El mismo es un sistema de control de stock, ganancia y facturación electrónica, esta pensado como para ser utilizado por un solo usuario en un comercio o pequeña empresa familiar.
+El mismo es un sistema de control de stock, ganancia y facturación electrónica, está pensado como para ser utilizado por un solo usuario en un comercio o pequeña empresa familiar.
 
-Para la parte de comunicación con los Webservices de la AFIP utilicé el codigo escrito por Guillermo O. Freschi, sacado de esta página: https://bitbucket.org/tordek/afiphp/src/e209aac44e04?at=factura_electronica
+Para la parte de comunicación con los Webservices de la AFIP utilicé el código escrito por Guillermo O. Freschi, sacado de esta página: https://bitbucket.org/tordek/afiphp/src/e209aac44e04?at=factura_electronica
 
-El código que escribi yo esta en la carpeta "sistema".
+El código que escribí yo está en la carpeta "sistema".
 
 Sistema probado únicamente sobre GNU/Linux, con Google Chrome y Xampp 5.6
 
@@ -19,8 +19,9 @@ Sistema probado únicamente sobre GNU/Linux, con Google Chrome y Xampp 5.6
 -----------------------
 
 
-Documentación original:
-Como usar esto
+##A continuación la documentación original de Guillermo O. Freschi:
+
+##Como usar esto
 ==============
 
 > ## Notas para XAMPP:
@@ -39,6 +40,6 @@ Leé la [documentación de la AFIP]( http://www.afip.gob.ar/ws/) y [mi aclarací
 Edita configs.php. Tenés que poner: path al archivo de certificado, path y key del keyfile (Ojo que va con "file://"), y tu CUIT.
 
 Para pasar de homologacion a producción hay que hacer el cambio de lineas comentadas en 3 archivos: 
--comprobante.php
--WSAAAuth.php
--FacturaElectronica.php
+comprobante.php.
+WSAAAuth.php.
+FacturaElectronica.php.
