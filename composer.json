@@ -1,0 +1,13 @@
+{
+    "name": "tordek/afiphp",
+    "description": "Biblioteca para acceder a los webservices de AFIP",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tordek\\": "src/Tordek"
+        }
+    }
+}
