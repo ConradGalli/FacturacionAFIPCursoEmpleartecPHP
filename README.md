@@ -39,7 +39,4 @@ Leé la [documentación de la AFIP]( http://www.afip.gob.ar/ws/) y [mi aclarací
 
 Edita configs.php. Tenés que poner: path al archivo de certificado, path y key del keyfile (Ojo que va con "file://"), y tu CUIT.
 
-Para pasar de homologacion a producción hay que hacer el cambio de lineas comentadas en 3 archivos: 
-comprobante.php.
-WSAAAuth.php.
-FacturaElectronica.php.
+Para pasar de homologacion a producción hay que hacer el cambio de lineas comentadas en 3 archivos: comprobante.php, WSAAAuth.php y FacturaElectronica.php
