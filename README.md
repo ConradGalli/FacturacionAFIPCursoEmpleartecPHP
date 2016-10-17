@@ -1,3 +1,6 @@
+###Encontrá mi Curriculum Vitae desarrollado en Wordpress en http://www.davidespinosa.com.ar
+
+
 Este es el trabajo final que desarrollé para el curso de Programación de Aplicaciones Web utilizando PHP y MySQL de Empleartec, cursado en el Polo Tecnológico de Rosario.
 http://www.empleartec.org.ar/cursos/388/programacion-php
 
